@@ -1,8 +1,12 @@
-@import "./base.css";
+@import "./base";
+@import "./fonts/fonts";
+@import "./colors/colors";
+@import "./radius/radius";
 
 #app {
   padding: 1.5rem;
   font-weight: normal;
+  font-family: var(--text-font-regular);
 }
 
 a,
@@ -20,8 +24,6 @@ a,
 
 @media (min-width: 1024px) {
   #app {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    padding: 0 2rem;
+    padding: 0 1.5rem;
   }
 }

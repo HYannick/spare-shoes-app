@@ -1,0 +1,52 @@
+{
+  "en": {
+    "welcome": {
+      "title": "Hello!",
+      "subTitle": "Welcome again, we missed you :D"
+    },
+    "form": {
+      "inputs": {
+        "email": {
+          "placeholder": "Email",
+          "errors": {
+            "required": "A valid email is required"
+          }
+        },
+        "password": {
+          "placeholder": "Password",
+          "errors": {
+            "required": "A valid password is required"
+          }
+        }
+      },
+      "buttons": {
+        "submit": "Se connecter"
+      }
+    }
+  },
+  "fr": {
+    "welcome": {
+      "title": "Salut!",
+      "subTitle": "Re-bienvenue, tu nous as manqué :D"
+    },
+    "form": {
+      "inputs": {
+        "email": {
+          "placeholder": "Email",
+          "errors": {
+            "required": "Un email valide est requis"
+          }
+        },
+        "password": {
+          "placeholder": "Mot de passe",
+          "errors": {
+            "required": "Un mot de passe valide est requis"
+          }
+        }
+      },
+      "buttons": {
+        "submit": "Se connecter"
+      }
+    }
+  }
+}

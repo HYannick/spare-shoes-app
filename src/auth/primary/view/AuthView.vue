@@ -5,7 +5,6 @@
 </template>
 
 <script setup lang="ts">
-
 import Logo from "@/common/primary/components/Logo.vue";
 </script>
 
